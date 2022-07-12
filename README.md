@@ -10,6 +10,7 @@
 
                                                ✨
 
+![Git 기본 세팅 커맨드](https://user-images.githubusercontent.com/108792189/178395602-3b87d10e-bbb2-4534-814e-b6661e31eecf.png)
 
 
 <!--
